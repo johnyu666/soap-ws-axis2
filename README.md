@@ -3,5 +3,5 @@
 
 基于services.xml的发布描述
 
-基于wsdl2java的客户端生成 ./wsdl2java.sh -uri <url?wsdl> -p <package name>
+基于wsdl2java的客户端生成 ./wsdl2java.sh -uri [url?wsdl] -p [package name]
 
